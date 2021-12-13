@@ -15,8 +15,9 @@
     <string name="last_update">Last Update:</string>
     <string name="kind">Kind:</string>
     <string name="description">Description:</string>
-    <string name="close">CLOSE</string>
-    <string name="open">OPEN</string>
+    <!--//If the drawer is open of close-->
+    <string name="drawer_close">CLOSE</string>
+    <string name="drawer_open">OPEN</string>
     <string name="availablePark">Available parking:</string>
     <string name="totalPark">Total parking:</string>
     <string name="filters">FILTERS</string>
@@ -38,6 +39,11 @@
     <string name="data">Data</string>
     <string name="enviar">Enviar</string>
     <string name="carros">Carros</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
+    <string name="subscriber_inserted_sucessfully">Subscriber was successfully inserted</string>
+    <string name="subscriber_error_to_insert">There was an error when inserting Subscriber</string>
+    <string name="welcome">Welcome</string>
 
 </resources>

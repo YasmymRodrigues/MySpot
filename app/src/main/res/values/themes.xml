@@ -20,6 +20,8 @@
     </style>
 
     <style name="Theme.MySpot.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
-
     <style name="Theme.MySpot.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="ToolbarTheme" parent="Theme.MySpot"/>
+
 </resources>

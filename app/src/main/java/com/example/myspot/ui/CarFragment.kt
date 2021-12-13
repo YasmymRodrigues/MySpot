@@ -6,15 +6,14 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.lifecycle.ViewModel
 import com.example.myspot.R
 
 class CarFragment : Fragment() {
 
-    /*companion object {
-        fun newInstance() = CarFragment()
-    }*/
+    /*private lateinit var viewModel: CarViewModel by viewModels{
 
-    private lateinit var viewModel: CarViewModel
+    } */
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,

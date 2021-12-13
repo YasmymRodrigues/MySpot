@@ -27,7 +27,7 @@
         android:layout_weight="1"
         android:gravity="bottom"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
-        android:text="@string/nav_header_title"
+        android:text="@string/welcome"
         android:textSize="26sp"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 
